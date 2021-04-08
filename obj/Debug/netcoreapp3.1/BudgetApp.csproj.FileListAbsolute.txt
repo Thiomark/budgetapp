@@ -1,0 +1,13 @@
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.exe
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.deps.json
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.runtimeconfig.json
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.runtimeconfig.dev.json
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.dll
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.pdb
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.csprojAssemblyReference.cache
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.AssemblyInfoInputs.cache
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.AssemblyInfo.cs
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.csproj.CoreCompileInputs.cache
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.dll
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.pdb
+C:\Users\MMM227\Documents\Programing\BudgetApp\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.genruntimeconfig.cache
